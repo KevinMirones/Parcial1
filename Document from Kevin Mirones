@@ -1,0 +1,48 @@
+<html>
+<head>
+<style>
+        /* Añadir imagen de fondo a toda la página */
+        body {
+            background-image: url(https://github.com/KevinMirones/Parcial1/blob/main/salardeuyuni.jpg?raw=true);
+            background-size: cover; /* Ajustar la imagen al tamaño de la ventana */
+            background-repeat: no-repeat; /* No repetir la imagen */
+            background-position: center center; /* Centrar la imagen */
+</style>
+</head>
+
+<center>
+<table name="Tabla" border="3" bgcolor=white cellspacing=2 cellpadding=5
+
+<tr> 
+<th style="color: red;">Bolivianos: el hado propicio<br>
+corono nuestros votos y anhelo;<br>
+es ya libre, ya libre este suelo,<br>
+ya cesó su servil condición.</th>
+<th>La alasita de la paz</th>
+<th><img width="300" src="https://github.com/KevinMirones/Parcial1/blob/main/patuju.jpg?raw=true?">
+</tr>
+
+<tr>
+<th>Bolivia se divide en tres regiones diferenciales: Zona Andina,<br>
+Zona Sub-Andina<br> 
+Zona de los Llanos</td>
+<th>Al estruendo marcial que ayer fuera<br>
+y al clamor de la guerra horroroso<br>
+siguen hoy, en contraste armonioso,<br>
+dulces himnos de paz y de unión</th>
+<th>Carnaval de Oruro</th>
+</tr>
+
+<tr>
+<th> <a href="https://es.wikipedia.org/wiki/Bolivia" target="_blank">
+<img width="300" src="https://github.com/KevinMirones/Parcial1/blob/main/EscudoDeBolivia.jpg?raw=true" alt="Imagen sobre la cultura de Bolivia" width="300">
+</a>
+
+</tr>
+
+https://kevinmirones.github.io/Parcial1/
+
+
+</table>
+</center>
+</html>
